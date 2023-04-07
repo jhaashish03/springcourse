@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringRestApplication<springRest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springRest.SpringRestApplication",
+            "projectName": "springRest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
